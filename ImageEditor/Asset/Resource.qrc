@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>Icon/left.svg</file>
+        <file>Icon/right.svg</file>
+        <file>Icon/rotate180.svg</file>
+        <file>Icon/undo.svg</file>
+        <file>Icon/win.ico</file>
+        <file>Icon/win.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>Qss/PushButton.qss</file>
+    </qresource>
+</RCC>
